@@ -2,12 +2,12 @@
     "name": "syme",
     "displayName": "syme",
     "description": "Based on monokai and maia.",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "publisher": "sy",
     "icon": "pangurbang.png",
     "repository": {
-      "type": "git",
-      "url": "https://github.com/somarlyonks/syme"
+        "type": "git",
+        "url": "https://github.com/somarlyonks/syme"
     },
     "engines": {
         "vscode": "^1.27.0"
