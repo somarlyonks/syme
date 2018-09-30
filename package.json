@@ -1,0 +1,27 @@
+{
+    "name": "syme",
+    "displayName": "syme",
+    "description": "Based on monokai and maia.",
+    "version": "0.1.0",
+    "publisher": "sy",
+    "icon": "pangurbang.png",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/somarlyonks/syme"
+    },
+    "engines": {
+        "vscode": "^1.27.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "syme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/syme-color-theme.json"
+            }
+        ]
+    }
+}
