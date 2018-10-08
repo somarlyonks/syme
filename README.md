@@ -1,5 +1,5 @@
 # syme
 
-## publish
+Based on monokai and maia.
 
-https://code.visualstudio.com/docs/extensions/publish-extension#_publishing-extensions)?
+![preview](./preview.png)
