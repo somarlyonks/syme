@@ -7,3 +7,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## logs
 
 - Initial release
+- Add custom tilebar color

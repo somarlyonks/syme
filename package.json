@@ -15,6 +15,13 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+      "Dark",
+      "theme",
+      "monokai",
+      "maia",
+      "Manjaro"
+  ],
     "contributes": {
         "themes": [
             {
