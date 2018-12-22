@@ -2,7 +2,7 @@
     "name": "syme",
     "displayName": "syme",
     "description": "Based on monokai and maia.",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "publisher": "sy",
     "icon": "pangurbang.png",
     "repository": {
@@ -16,12 +16,12 @@
         "Themes"
     ],
     "keywords": [
-      "Dark",
-      "theme",
-      "monokai",
-      "maia",
-      "Manjaro"
-  ],
+        "Dark",
+        "theme",
+        "monokai",
+        "maia",
+        "Manjaro"
+    ],
     "contributes": {
         "themes": [
             {
