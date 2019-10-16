@@ -65,7 +65,7 @@ export default class TerminalInput extends React.Component<ITerminalInputProps, 
       <div className="terminal-input">
         <input
           type="text"
-          className="terminal-input__input"
+          className={`terminal-input__input ${this.state.text}`}
           onFocus={this.onFocus}
           onBlur={this.onBlur}
           onChange={this.jumpTo}
