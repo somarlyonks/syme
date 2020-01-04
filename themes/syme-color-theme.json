@@ -102,7 +102,7 @@
 		"editorUnnecessaryCode.opacity": "#707cad88",
 		"editorWarning.border": "#f17c67",
 		"editorWarning.foreground": "#fedfe1",
-		"editorWhitespace.foreground": "#ff0000",
+		"editorWhitespace.foreground": "#707cad88",
 		"editorWidget.background": "#103249",
 		"editorWidget.border": "#00896c",
 		"editorWidget.resizeBorder": "#00896c",
@@ -812,17 +812,17 @@
 		{
 			"name": "Markup: Punctuation",
 			"scope": [
-        "punctuation.definition.raw.markdown",
+				"punctuation.definition.raw.markdown",
 				"punctuation.definition.markdown",
-        "punctuation.definition.italic.markdown",
-        "punctuation.definition.bold.markdown",
+				"punctuation.definition.italic.markdown",
+				"punctuation.definition.bold.markdown",
 				"punctuation.definition.quote.begin.markdown",
-        "punctuation.definition.list.begin.markdown",
-        "punctuation.definition.heading.markdown",
-				"fenced_code.block.language.markdown",
-      ],
+				"punctuation.definition.list.begin.markdown",
+				"punctuation.definition.heading.markdown",
+				"fenced_code.block.language.markdown"
+			],
 			"settings": {
-        "fontStyle": "",
+				"fontStyle": "",
 				"foreground": "#696969"
 			}
 		},
@@ -998,13 +998,13 @@
 		},
 		{
 			"scope": [
-        "punctuation.accessor.ts",
-        "punctuation.accessor.tsx",
-        "punctuation.separator.comma.tsx",
-        "variable.other.constant.ts",
-        "variable.other.constant.tsx",
-        "variable.other.constant.object.ts",
-      ],
+				"punctuation.accessor.ts",
+				"punctuation.accessor.tsx",
+				"punctuation.separator.comma.tsx",
+				"variable.other.constant.ts",
+				"variable.other.constant.tsx",
+				"variable.other.constant.object.ts"
+			],
 			"settings": {
 				"foreground": "#a5dee4"
 			}
@@ -1038,7 +1038,7 @@
 			}
 		},
 		{
-      "name": "Markdown: Link",
+			"name": "Markdown: Link",
 			"scope": [
 				"markup.underline.link.markdown",
 				"markup.underline.link.image.markdown"
@@ -1061,7 +1061,11 @@
 			}
 		},
 		{
-			"scope": "keyword.other.fn.rust",
+			"scope": [
+        "keyword.other.fn.rust",
+        "storage.type.rust",
+        "keyword.other.rust"
+      ],
 			"settings": {
 				"foreground": "#77aa66",
 				"fontStyle": "italic bold"
@@ -1092,6 +1096,12 @@
 		},
 		{
 			"scope": "meta.function-call.generic.python",
+			"settings": {
+				"foreground": "#56b6c2"
+			}
+		},
+		{
+			"scope": "meta.attribute.rust",
 			"settings": {
 				"foreground": "#56b6c2"
 			}
