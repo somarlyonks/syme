@@ -1,10 +1,6 @@
 # Change Log
 
-All notable changes to the "syme" extension will be documented in this file.
+## v0.11.0
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## logs
-
-- Initial release
-- Add custom tilebar color
+- feat(theme): theme sonic pi
+- feat(theme): customize color for error lens

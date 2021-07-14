@@ -2,7 +2,7 @@
 
 Based on monokai and maia.
 
-![preview](./preview.png)
+![preview](https://raw.githubusercontent.com/somarlyonks/syme/master/preview.png)
 
 ## Editor Colors
 
@@ -20,12 +20,20 @@ $Warning-Dirt: #f17c67;
 
 ### Python
 
-![python](./examples/frag.py.png)
+![python](https://raw.githubusercontent.com/somarlyonks/syme/master/examples/frag.py.jpg)
 
 ### Rust
 
-![rust](./examples/frag.rs.png)
+![rust](https://raw.githubusercontent.com/somarlyonks/syme/master/examples/frag.rs.jpg)
 
 ### TSX
 
-![typescript jsx](./examples/frag.tsx.png)
+![typescript jsx](https://raw.githubusercontent.com/somarlyonks/syme/master/examples/frag.tsx.jpg)
+
+### Markdown
+
+![markdown](https://raw.githubusercontent.com/somarlyonks/syme/master/examples/frag.md.jpg)
+
+### Sonic Pi
+
+![sonic pi](https://raw.githubusercontent.com/somarlyonks/syme/master/examples/frag.pi.jpg)
