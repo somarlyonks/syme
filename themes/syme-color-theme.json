@@ -1280,6 +1280,25 @@
 			"settings": {
 				"fontStyle": "bold italic"
 			}
+		},
+		{
+			"scope": "keyword.sonic-pi",
+			"settings": {
+				"foreground": "#DD5599",
+				"fontStyle": "italic bold"
+			}
+		},
+		{
+			"scope": "support.function.sonic-pi",
+			"settings": {
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "variable.other.constant.sonic-pi",
+			"settings": {
+				"foreground": "#56B6C2"
+			}
 		}
 	]
 }
