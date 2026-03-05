@@ -1,5 +1,9 @@
 # Change Log
 
+## v0.13.0
+
+- fix(theme): fix minimap colors
+
 ## v0.12.0
 
 - feat(theme): add bracket highlight colors
